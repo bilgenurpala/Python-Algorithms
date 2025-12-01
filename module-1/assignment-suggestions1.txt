@@ -1,0 +1,16 @@
+1.9 Assignment Suggestions – Module 1
+
+1. Simple Converter:
+Create a converter program for Metre → Feet and Kilogram → Pound.
+
+2. Personal Budget:
+A program that takes income and expenses and calculates the remaining money.
+
+3. Age-in-Days Calculator:
+A program that calculates how many days someone has lived based on their birthdate.
+
+4. Discount Calculator:
+A program that takes a product price and discount rate, then calculates the new price.
+
+5. Restaurant Bill Splitter:
+A program that takes meal price, tip rate, and number of people, then calculates the cost per person.

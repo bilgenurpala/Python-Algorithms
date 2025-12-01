@@ -1,7 +1,4 @@
-# 1.9 Ödev Önerileri (Assignment Suggestions) - Modül 1 (Module 1)
-
-# 1. Basit Dönüştürücü (Simple Converter) = Create a converter program for Metre -> Feet and Kilogram -> Pound.
-print("===== Basit Dönüştürücü (Simple Converter) =====")
+print("===== Simple Converter =====")
 print("1. Meter to Feet")
 print("2. Feet to Meter")
 print("3. Kilogram to Pound")
