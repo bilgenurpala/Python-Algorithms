@@ -2,7 +2,7 @@
 1. Ask the user to enter the food price.
 2. Ask the user to enter the tip percentage.
 3. Ask the user to enter the number of people.
-4.Calculate the tip amount using the percentage.
+4. Calculate the tip amount using the percentage.
 5. Add the tip to the food price to get the total bill.
 6. Divide the total bill by the number of people to find the cost per person.
 7. Display the food price, tip amount, total bill, number of people, and the per-person payment.
