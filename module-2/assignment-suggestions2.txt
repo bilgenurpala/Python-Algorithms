@@ -1,0 +1,20 @@
+2.10 Assignment Suggestions – Module 2
+1. Pass/Fail System:
+
+A program that takes the user’s grades and determines whether they passed the class and shows the letter grade.
+
+2. Tax Calculator:
+
+A program that calculates tax based on different income levels.
+
+3. Restaurant Ordering System:
+
+A program where the user selects items from a menu and the system calculates the total price.
+
+4. Simple Game:
+
+A program where the user plays rock–paper–scissors against the computer.
+
+5. Credit Card Validation:
+
+A program that checks whether a credit card number is valid using the Luhn algorithm.
