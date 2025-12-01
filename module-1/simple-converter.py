@@ -1,3 +1,15 @@
+'''
+1. Get the length in meters from the user.
+
+2. Get the weight in kilograms from the user.
+
+3. Convert meters to feet: feet = meters * 3.28084.
+
+4. Convert kilograms to pounds: pounds = kg * 2.20462.
+
+5. Display the results.
+'''
+
 print("===== Simple Converter =====")
 print("1. Meter to Feet")
 print("2. Feet to Meter")
