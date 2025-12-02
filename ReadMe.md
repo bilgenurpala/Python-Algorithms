@@ -10,7 +10,7 @@ The project consists of two main modules:
 
 #### 1. Age Calculator (age-calculator.py)
 **Description:** Application that calculates how many days a user has lived by taking their birth date.
-
+f
 **Features:**
 - Birth date input (year, month, day)
 - `datetime` module usage
@@ -138,7 +138,7 @@ python tax-calculator.py
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13
 - Standard Python libraries (datetime)
 
 ## Installation
