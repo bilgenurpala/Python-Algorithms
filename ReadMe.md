@@ -138,7 +138,7 @@ python tax-calculator.py
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13
 - Standard Python libraries (datetime)
 
 ## Installation
